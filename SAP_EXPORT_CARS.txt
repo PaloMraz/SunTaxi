@@ -1,0 +1,867 @@
+18.04.2019                   Dynamický výstup zostavy                          1
+--------------------------------------------------------------------------------
+Export dát o autách pre [redacted :-)]
+
+Obdobie: 01.04.2019 - 31.12.9999
+Záznamov: -
+
+-------------------------------------------
+|KFZKZ     |TEXT                          |
+-------------------------------------------
+|XY-MA 224 |ST E-UP!                      |
+|XY-MA 227 |ST E-UP!                      |
+|XY-MA 264 |ST UP!                        |
+|XY-MB 921 |ST E-UP!                      |
+|XY-MB 978 |ST UP! CNG                    |
+|XY-MC 008 |ST E-UP!                      |
+|XY-MC 010 |ST E-UP!                      |
+|XY-MC 078 |ST E-UP!                      |
+|XY-MC 079 |ST E-UP!                      |
+|XY-MC 080 |ST E-UP!                      |
+|XY-MC 082 |ST E-UP!                      |
+|XY-MC 149 |ST TOUAREG                    |
+|XY-MC 278 |ST UP!                        |
+|XY-MC 279 |ST UP!                        |
+|YZ-002 SI |ST TOURAN BMT CL AUT.         |
+|YZ-002 SO |ST TIGUAN 4-M HL AUT.         |
+|YZ-003 IE |ST UP!                        |
+|YZ-004 SO |ST GOLF HL AUT.               |
+|YZ-004 TV |ST GOLF SPORTSV. HL AUT.      |
+|YZ-005 TV |ST ARTEON R-LINE MECH.        |
+|YZ-006 PS |ST TOUAREG V6 AUT.            |
+|YZ-006 SO |ST TIGUAN ALLS. 4-M HL AUT.   |
+|YZ-006 TG |ST UP! HIGH. MECH.            |
+|YZ-009 SO |ST PASSAT VAR. BMT HL AUT.    |
+|YZ-010 TG |ST TIGUAN 4-M HL AUT.         |
+|YZ-012 SG |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-012 SI |ST UP! HIGH. AUT.             |
+|YZ-013 PS |ST UP! MOVE MECH.             |
+|YZ-020 PS |ST TOUAREG V6 AUT.            |
+|YZ-023 TG |ST UP! CROSS MECH.            |
+|YZ-027 SI |ST TIGUAN CL MECH.            |
+|YZ-027 SO |ST TOURAN CL MECH.            |
+|YZ-029 SI |ST UP! HIGH. MECH.            |
+|YZ-030 SI |ST GOLF GTI MECH.             |
+|YZ-033 OB |ST GOLF VAR.MECH. OBJ.ŠEDÝ    |
+|YZ-033 SO |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-033 TG |ST UP! HIGH. MECH.            |
+|YZ-035 UG |ST UP! HIGH. MECH.            |
+|YZ-037 SI |ST UP! HIGH. MECH.            |
+|YZ-037 TI |ST SHARAN BMT CL AUT.         |
+|YZ-037 UI |ST GOLF CL AUT.               |
+|YZ-038 UG |ST TOUAREG V6 TDI AUT.        |
+|YZ-038 UI |ST E-GOLF CL AUT.             |
+|YZ-039 UG |ST E-UP!                      |
+|YZ-040 UG |ST TOUAREG V6 TDI AUT.        |
+|YZ-042 UG |ST ARTEON ELEGANCE AUT.       |
+|YZ-043 UG |ST TOUAREG V6 TDI AUT.        |
+|YZ-043 UI |ST ARTEON R-LINE MECH.        |
+|YZ-044 UI |ST ARTEON AUT.                |
+|YZ-045 UI |ST GOLF VAR. CL AUT.          |
+|YZ-046 UI |ST SHARAN CL AUT.             |
+|YZ-048 TB |ST TIGUAN 4-M HL AUT.         |
+|YZ-048 UI |ST TOURAN CL MECH.            |
+|YZ-050 UF |ST TOUAREG V6 TDI AUT.        |
+|YZ-050 UG |ST UP! GTI                    |
+|YZ-051 TB |ST TIGUAN CL AUT.             |
+|YZ-052 UF |ST E-UP!                      |
+|YZ-052 UG |ST E-UP!                      |
+|YZ-052 UI |ST PASSAT VAR. TL MECH.       |
+|YZ-055 PE |ST BEETLE CAB. BMT AUT.       |
+|YZ-056 TB |ST TIGUAN ALLS. 4-M CL MECH.  |
+|YZ-056 TM |ST TOUAREG TDI V6             |
+|YZ-056 UF |ST TOUAREG V6 TDI AUT.        |
+|YZ-057 RY |ST GOLF HL AUT.               |
+|YZ-061 RY |ST SHARAN BMT CL AUT.         |
+|YZ-061 TB |ST TOUAREG AUT.               |
+|YZ-062 RM |ST T6 CARAVELLE 4-M CL MECH.  |
+|YZ-063 SE |ST CARAVELLE                  |
+|YZ-063 UI |ST SHARAN HL AUT.             |
+|YZ-065 UI |ST TIGUAN ALLS. 4-M HL AUT.   |
+|YZ-066 UG |ST TOUAREG V6 TDI AUT.        |
+|YZ-066 UI |ST ARTEON R-LINE AUT.         |
+|YZ-068 TB |ST UP! HIGH. MECH.            |
+|YZ-068 UI |ST PASSAT VAR. HL AUT.        |
+|YZ-069 PI |ST E-UP!                      |
+|YZ-069 UG |ST TOUAREG V6 TDI AUT.        |
+|YZ-069 UI |ST TIGUAN CL AUT.             |
+|YZ-070 PI |ST E-UP!                      |
+|YZ-070 TB |ST TIGUAN 4-M HL AUT.         |
+|YZ-071 RM |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-071 UI |ST TIGUAN CL MECH.            |
+|YZ-073 TT |ST TOUAREG TDI V6             |
+|YZ-074 TT |ST TOUAREG TDI V6             |
+|YZ-075 UI |ST ARTEON R-LINE MECH.        |
+|YZ-077 TB |ST POLO CL AUT.               |
+|YZ-078 TB |ST TOURAN R-LINE MECH.        |
+|YZ-080 TB |ST TIGUAN ALLS. 4-M CL AUT.   |
+|YZ-083 RH |ST SHARAN BMT CL AUT.         |
+|YZ-083 UF |ST E-UP!                      |
+|YZ-084 NP |ST UP! AUT.                   |
+|YZ-085 RH |ST PASSAT VAR. GTE HYBR. AUT. |
+|YZ-087 RM |ST TOURAN BMT HL AUT.         |
+|YZ-090 UF |ST TIGUAN ALLS. 4-M HL AUT.   |
+|YZ-092 TA |ST T6 MULTIVAN 4-M AUT.       |
+|YZ-093 PA |ST UP! HIGH. MECH.            |
+|YZ-093 TT |ST UP! GTI                    |
+|YZ-094 RH |ST TOURAN BMT HL AUT.         |
+|YZ-097 SS |ST UP! CROSS MECH.            |
+|YZ-098 SS |ST TIGUAN ALLS. 4-M HL AUT.   |
+|YZ-099 OB |ST TOUAREG V6 AUT.            |
+|YZ-101 PA |ST E-UP!                      |
+|YZ-102 PA |ST UP! HIGH. MECH.            |
+|YZ-106 RE |ST TIGUAN CL AUT.             |
+|YZ-107 UJ |ST TIGUAN 4-M TL MECH.        |
+|YZ-108 SS |ST PASSAT VAR. AUT.           |
+|YZ-109 UJ |ST E-UP!                      |
+|YZ-110 TH |ST PASSAT VAR. BMT CL MECH.   |
+|YZ-114 SS |ST GOLF ALLTR. 4-M MECH.      |
+|YZ-116 PA |ST E-UP!                      |
+|YZ-116 SS |ST TIGUAN 4-M CL MECH.        |
+|YZ-117 UJ |ST TOURAN CL AUT.             |
+|YZ-118 PY |ST UP! HIGH. MECH.            |
+|YZ-118 SS |ST TIGUAN 4-M HL AUT.         |
+|YZ-118 UJ |ST TIGUAN 4-M HL AUT.         |
+|YZ-119 RE |ST TIGUAN 4-M HL AUT.         |
+|YZ-120 RE |ST SHARAN BMT CL AUT.         |
+|YZ-121 UJ |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-123 SS |ST UP! HIGH. MECH.            |
+|YZ-126 TH |ST TIGUAN 4-M HL AUT.         |
+|YZ-129 SS |ST UP! HIGH. MECH.            |
+|YZ-130 PA |ST E-UP!                      |
+|YZ-134 UJ |ST GOLF SPORTSV. HL AUT.      |
+|YZ-135 UJ |ST E-UP!                      |
+|YZ-137 UJ |ST TIGUAN 4-M CL AUT.         |
+|YZ-139 UJ |ST TOUAREG V6 TDI AUT.        |
+|YZ-144 SC |ST TOUAREG V6 TDI AUT.        |
+|YZ-144 UJ |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-148 SC |ST UP! HIGH. MECH.            |
+|YZ-150 RG |ST TOURAN BMT CL AUT.         |
+|YZ-150 SC |ST UP! HIGH. MECH.            |
+|YZ-150 TU |ST TOUAREG TDI V6             |
+|YZ-151 SC |ST UP! HIGH. MECH.            |
+|YZ-151 SN |ST TOURAN CL AUT.             |
+|YZ-155 SN |ST TIGUAN ALLS. 4-M HL AUT.   |
+|YZ-162 SC |ST UP! HIGH. MECH.            |
+|YZ-164 SC |ST UP! HIGH. MECH.            |
+|YZ-165 SC |ST TOUAREG V6 TDI AUT.        |
+|YZ-166 RG |ST ARTEON 4-M R-LINE AUT.     |
+|YZ-166 SN |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-170 SN |ST T6 MULTIVAN 4-M TL AUT.    |
+|YZ-173 AO |ST TOUAREG (RALLEY)           |
+|YZ-176 OZ |ST SHARAN BMT AUT.            |
+|YZ-176 SN |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-179 SN |ST TIGUAN ALLS. 4-M HL AUT.   |
+|YZ-179 UC |ST TOUAREG V6 TDI AUT.        |
+|YZ-182 RG |ST TOURAN BMT HL MECH.        |
+|YZ-184 UC |ST SHARAN HL AUT.             |
+|YZ-187 SN |ST TIGUAN ALLS. CL AUT.       |
+|YZ-187 TE |ST UP! HIGH. MECH.            |
+|YZ-190 SX |ST TIGUAN CL AUT.             |
+|YZ-190 TE |ST TOURAN R-LINE AUT.         |
+|YZ-191 UC |ST UP! MOVE MECH.             |
+|YZ-195 SD |ST GOLF ALLT. 4-M AUT.        |
+|YZ-195 TE |ST T6 CARAVELLE CL 4-M AUT.   |
+|YZ-196 TE |ST UP! HIGH. AUT.             |
+|YZ-198 TE |ST T-ROC 4-M AUT.             |
+|YZ-201 SD |ST T6 PODVOZOK 4-M MECH.      |
+|YZ-203 ST |ST T-ROC 4-M AUT.             |
+|YZ-203 TZ |ST TIGUAN 4-M HL MECH.        |
+|YZ-204 ST |ST TIGUAN ALLS. 4-M HL AUT.   |
+|YZ-204 TE |ST UP! CROSS MECH.            |
+|YZ-205 PS |ST UP! HIGH. AUT.             |
+|YZ-205 ST |ST ARTEON R-LINE 4-M AUT.     |
+|YZ-205 TE |ST UP! CROSS MECH.            |
+|YZ-207 TE |ST UP! CROSS MECH.            |
+|YZ-208 TE |ST UP! CROSS MECH.            |
+|YZ-209 TE |ST TOUAREG AUT.               |
+|YZ-210 TE |ST UP! HIGH. MECH.            |
+|YZ-211 TE |ST T-ROC 4-M AUT.             |
+|YZ-212 RL |ST TIGUAN 4-M HL AUT.         |
+|YZ-212 TZ |ST ARTEON R-LINE MECH.        |
+|YZ-214 TE |ST T-ROC 4-M AUT.             |
+|YZ-215 PS |ST TIGUAN 4-M HIGH. AUT.      |
+|YZ-215 RL |ST TIGUAN 4-M HL AUT.         |
+|YZ-217 OX |ST UP! CROSS AUT.             |
+|YZ-217 RL |ST ARTEON ELEGANCE AUT.       |
+|YZ-218 RL |ST UP! HIGH. MECH.            |
+|YZ-218 RR |ST PASSAT HL BMT AUT.         |
+|YZ-219 KM |AUDI Q7                       |
+|YZ-219 SY |ST ARTEON R-LINE AUT.         |
+|YZ-219 TZ |ST TIGUAN 4-M HL AUT.         |
+|YZ-221 OX |ST UP! CROSS MECH.            |
+|YZ-222 RL |ST TIGUAN 4-M CL AUT.         |
+|YZ-223 RL |ST TIGUAN 4-M HL AUT.         |
+|YZ-223 TE |ST UP! HIGH. MECH.            |
+|YZ-226 ST |ST GOLF SPORTSV. HL AUT.      |
+|YZ-226 SY |ST UP! HIGH. MECH.            |
+|YZ-226 TZ |ST PASSAT R-LINE HL MECH.     |
+|YZ-228 RL |ST TIGUAN 4-M CL AUT.         |
+|YZ-228 SK |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-230 ST |ST TIGUAN 4-M HL AUT.         |
+|YZ-231 SY |ST TIGUAN 4-M TL MECH.        |
+|YZ-232 TZ |ST TIGUAN CL AUT.             |
+|YZ-233 RR |ST GOLF HIGH. AUT.            |
+|YZ-233 SK |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-233 TZ |ST TIGUAN 4-M CL MECH.        |
+|YZ-234 PV |ST T6 CARAVELLE 4-M COMF. AUT.|
+|YZ-234 RL |ST SHARAN BMT HL MECH.        |
+|YZ-235 SK |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-238 PV |ST TOURAN BMT HIGH. AUT.      |
+|YZ-238 ST |ST TIGUAN ALLS. 4-M HL MECH.  |
+|YZ-240 PV |ST TOURAN BMT COMF. AUT.      |
+|YZ-240 RL |ST TIGUAN 4-M HL AUT.         |
+|YZ-240 SK |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-240 ST |ST UP! CROSS AUT.             |
+|YZ-240 SY |ST TIGUAN CL AUT.             |
+|YZ-241 SD |ST PASSAT VAR. R-LINE HL AUT. |
+|YZ-241 ST |ST TIGUAN 4-M HL AUT.         |
+|YZ-241 SY |ST TIGUAN 4-M HL AUT.         |
+|YZ-242 ST |ST TIGUAN 4-M HL AUT.         |
+|YZ-242 SY |ST UP! HIGH. MECH.            |
+|YZ-243 RB |ST TIGUAN 4-M CL AUT.         |
+|YZ-243 RR |ST PASSAT R-LINE BMT HL MECH. |
+|YZ-243 SY |ST ARTEON R-LINE 4-M AUT.     |
+|YZ-243 TA |ST SHARAN 4-M HL AUT.         |
+|YZ-244 PV |ST TIGUAN 4-M HL AUT.         |
+|YZ-245 SY |ST UP! HIGH. MECH.            |
+|YZ-246 SV |ST T-ROC 4-M MECH.            |
+|YZ-246 SY |ST TIGUAN ALLS. 4-M HL AUT.   |
+|YZ-248 RB |ST PASSAT VAR. 4-M HL MECH.   |
+|YZ-249 PV |ST TOUAREG V6 AUT.            |
+|YZ-250 SV |ST ARTEON ELEGANCE AUT.       |
+|YZ-252 OJ |ST UP! HIGH. MECH.            |
+|YZ-253 SV |ST TIGUAN ALLS. 4-M HL AUT.   |
+|YZ-255 RB |ST TIGUAN 4-M CL AUT.         |
+|YZ-255 SV |ST ARTEON ELEGANCE AUT.       |
+|YZ-257 SV |ST ARTEON R-LINE AUT.         |
+|YZ-258 SV |ST PASSAT VAR. R-LINE MECH.   |
+|YZ-259 TF |ST TOUAREG AUT.               |
+|YZ-262 RB |ST PASSAT VAR. GTE AUT.       |
+|YZ-266 SD |ST ARTEON AUT.                |
+|YZ-266 SV |ST ARTEON ELEGANCE AUT.       |
+|YZ-266 UK |ST TOUAREG V6 TDI AUT.        |
+|YZ-268 SV |ST SHARAN 4-M HL MECH.        |
+|YZ-269 PV |ST T6 CARAVELLE 4-M TREND.AUT.|
+|YZ-271 SV |ST GOLF VAR. R-LINE HL 4-M MEC|
+|YZ-273 NM |ST UP! MECH.                  |
+|YZ-273 RB |ST UP! HIGH. MECH.            |
+|YZ-274 SV |ST ARTEON MECH.               |
+|YZ-276 SV |ST ARTEON R-LINE MECH.        |
+|YZ-277 SV |ST TIGUAN 4-M CL MECH.        |
+|YZ-277 UK |ST GOLF SPORTSV. HL AUT.      |
+|YZ-278 SV |ST TIGUAN 4-M HL AUT.         |
+|YZ-279 SV |ST ARTEON AUT.                |
+|YZ-280 JI |ST UP! HIGH. AUT.             |
+|YZ-280 LA |AUDI Q7                       |
+|YZ-282 NF |ST E-UP!                      |
+|YZ-282 SV |ST TIGUAN CL AUT.             |
+|YZ-285 UK |ST ARTEON AUT.                |
+|YZ-286 SR |ST E-UP!                      |
+|YZ-287 LA |AUDI Q7                       |
+|YZ-288 LA |AUDI Q7                       |
+|YZ-288 UK |ST TIGUAN 4-M CL AUT.         |
+|YZ-289 UK |ST GOLF SPORTSV. HL AUT.      |
+|YZ-291 SR |ST UP! HIGH. MECH.            |
+|YZ-291 UK |ST TIGUAN CL AUT.             |
+|YZ-293 SR |ST TOURAN R-LINE MECH.        |
+|YZ-295 SR |ST TOURAN HL AUT.             |
+|YZ-296 RX |ST TIGUAN 4-M HL AUT.         |
+|YZ-296 UK |ST GOLF CL AUT.               |
+|YZ-297 RX |ST TOURAN BMT HL AUT.         |
+|YZ-297 TJ |ST TOUAREG AUT.               |
+|YZ-298 SR |ST UP! HIGH. MECH.            |
+|YZ-299 RX |ST TOURAN BMT CL AUT.         |
+|YZ-299 SR |ST TIGUAN CL AUT.             |
+|YZ-299 UK |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-300 SR |ST UP! HIGH. MECH.            |
+|YZ-301 SR |ST TIGUAN CL AUT.             |
+|YZ-302 LA |AUDI Q7                       |
+|YZ-305 SR |ST E-UP!                      |
+|YZ-310 SR |ST UP! ECO MOVE MECH.         |
+|YZ-311 SR |ST TIGUAN CL AUT.             |
+|YZ-315 SR |ST GOLF GTI AUT.              |
+|YZ-318 TJ |ST TOUAREG AUT.               |
+|YZ-319 TJ |ST E-UP!                      |
+|YZ-320 RX |ST ARTEON MECH.               |
+|YZ-321 PT |ST PASSAT VAR. BMT CL AUT.    |
+|YZ-322 PT |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-322 YC |PRÍVES NÁKLADNÝ ŠPECIÁLNY     |
+|YZ-330 OP |ST GOLF COMF. AUT.            |
+|YZ-337 RS |ST TOURAN BMT HL AUT.         |
+|YZ-344 KK |AUDI Q7                       |
+|YZ-348 RA |ST TOURAN BMT HL AUT.         |
+|YZ-348 RS |ST TIGUAN 4-M CL MECH.        |
+|YZ-350 RA |ST TIGUAN 4-M HL AUT.         |
+|YZ-353 RS |ST PASSAT VAR. GTE HYBRID AUT.|
+|YZ-354 RS |ST PASSAT BMT HL AUT.         |
+|YZ-358 TC |ST TOUAREG AUT.               |
+|YZ-360 RA |ST TIGUAN 4-M HL AUT.         |
+|YZ-360 TD |ST TIGUAN 4-M HL AUT.         |
+|YZ-361 TC |ST TOUAREG AUT.               |
+|YZ-362 TC |ST TOUAREG AUT.               |
+|YZ-362 TD |ST TOURAN R-LINE AUT.         |
+|YZ-362 TK |ST TIGUAN ALLS. 4-M HL AUT.   |
+|YZ-363 TK |ST TIGUAN 4-M HL AUT.         |
+|YZ-364 TC |ST UP! CROSS MECH.            |
+|YZ-364 TK |ST SHARAN HL MECH.            |
+|YZ-364 UD |ST E-UP!                      |
+|YZ-365 TC |ST UP! HIGH. MECH.            |
+|YZ-366 TK |ST TIGUAN ALLS. 4-M HL AUT.   |
+|YZ-366 UD |ST PASSAT VAR R-LINE CL AUT.  |
+|YZ-367 RS |ST TOURAN BMT HL AUT.         |
+|YZ-367 TK |ST TIGUAN 4-M HL AUT.         |
+|YZ-368 RS |ST PASSAT BMT HL AUT.         |
+|YZ-368 TK |ST GOLF VAR. 4-M R-LINE HL AUT|
+|YZ-368 UD |ST E-UP!                      |
+|YZ-370 UD |ST E-UP!                      |
+|YZ-371 TK |ST PASSAT VAR. R-LINE HL MECH.|
+|YZ-373 UD |ST TOUAREG V6 TDI AUT.        |
+|YZ-374 RA |ST TIGUAN 4-M HL AUT.         |
+|YZ-375 RA |ST TIGUAN 4-M HL AUT.         |
+|YZ-376 TC |ST UP! HIGH. MECH.            |
+|YZ-377 RA |ST TOUAREG V6 AUT.            |
+|YZ-377 TC |ST E-UP!                      |
+|YZ-377 UD |ST E-UP!                      |
+|YZ-379 UD |ST CADDY HL AUT.              |
+|YZ-380 TK |ST TIGUAN 4-M HL MECH.        |
+|YZ-380 UD |ST GOLF SPORTS. CL MECH.      |
+|YZ-383 TC |ST UP! HIGH. MECH.            |
+|YZ-383 UD |ST GOLF VAR. HL AUT.          |
+|YZ-384 OA |ST UP! HIGH. MECH.            |
+|YZ-384 SE |ST ARTEON AUT.                |
+|YZ-387 NZ |ST UP! HIGH. MECH.            |
+|YZ-388 TK |ST PASSAT HL AUT.             |
+|YZ-389 TC |ST E-UP!                      |
+|YZ-390 SE |ST PASSAT BMT CL AUT.         |
+|YZ-390 TC |ST TOUAREG AUT.               |
+|YZ-391 TC |ST E-UP!                      |
+|YZ-391 UD |ST TOUAREG V6 TDI AUT.        |
+|YZ-392 SE |ST ARTEON ELEGANCE MECH.      |
+|YZ-392 TK |ST TIGUAN CL AUT.             |
+|YZ-392 UD |ST TOURAN CL AUT.             |
+|YZ-393 UD |ST PASSAT VAR. HL AUT.        |
+|YZ-394 OT |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-394 TK |ST TOURAN CL MECH.            |
+|YZ-394 UD |ST PASSAT R-LINE CL AUT.      |
+|YZ-397 TC |ST TOUAREG AUT.               |
+|YZ-399 OT |ST ARTEON R-LINE 4-M AUT.     |
+|YZ-399 UD |ST UP! MOVE                   |
+|YZ-401 UD |ST SHARAN HL MECH.            |
+|YZ-402 SE |ST GOLF R 4-M AUT.            |
+|YZ-403 SE |ST TIGUAN ALLS. HL 4-M AUT.   |
+|YZ-405 LM |ST TOURAN BMT HL MECH.        |
+|YZ-406 SE |ST E-UP!                      |
+|YZ-407 SE |ST TIGUAN 4-M HL AUT.         |
+|YZ-408 SE |ST TOURAN BMT CL MECH.        |
+|YZ-409 SE |ST TOURAN HL BMT MECH.        |
+|YZ-413 SZ |ST TIGUAN 4-M HL AUT.         |
+|YZ-415 PJ |ST T6 CARAVELLE 4-M COMF. AUT.|
+|YZ-418 SE |ST GOLF SPORTSV. HL MECH.     |
+|YZ-419 SE |ST GOLF CL MECH.              |
+|YZ-421 LE |ST UP! HIGH. AUT.             |
+|YZ-421 SP |ST CARAVELLE                  |
+|YZ-422 RU |ST UP! HIGH. MECH.            |
+|YZ-424 SZ |ST T6 CALIFORNIA 4-M AUT.     |
+|YZ-425 TP |ST TOURAN R-LINE AUT.         |
+|YZ-427 TP |ST T6 KOMBI 4-M AUT.          |
+|YZ-428 TP |ST TIGUAN ALLS. 4-M CL MECH.  |
+|YZ-430 SZ |ST T6 CARAVELLE CL 4-M AUT.   |
+|YZ-431 SZ |ST TIGUAN CL MECH.            |
+|YZ-431 TI |ST TOURAN HL AUT.             |
+|YZ-431 TZ |ST ARTEON 4-M AUT.            |
+|YZ-432 TZ |ST TIGUAN CL AUT.             |
+|YZ-433 TP |ST TIGUAN ALLS. 4-M HL AUT.   |
+|YZ-434 SZ |ST TIGUAN 4-M HL AUT.         |
+|YZ-435 SZ |ST TIGUAN CL AUT.             |
+|YZ-436 RU |ST UP! HIGH. MECH.            |
+|YZ-436 TZ |ST T6 MULTIVAN HL MECH.       |
+|YZ-437 TP |ST TIGUAN ALLS. CL AUT.       |
+|YZ-437 TZ |ST TIGUAN ALLS. 4-M CL AUT.   |
+|YZ-438 SM |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-438 TI |ST TIGUAN ALLS. CL AUT.       |
+|YZ-439 SM |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-439 TZ |ST TIGUAN TL 4-M AUT.         |
+|YZ-440 TO |ST TOURAN CL AUT.             |
+|YZ-441 TP |ST TIGUAN CL AUT.             |
+|YZ-442 PX |ST TIGUAN TRENDL. AUT.        |
+|YZ-442 SM |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-442 TI |ST TOURAN HL AUT.             |
+|YZ-442 TP |ST T-RPC SPORT 4-M AUT.       |
+|YZ-443 SM |ST UP! HIGH. AUT.             |
+|YZ-443 SZ |ST SHARAN 4-M HL AUT.         |
+|YZ-443 TA |ST ARTEON AUT.                |
+|YZ-443 TO |ST TIGUAN ALLS. 4-M HL AUT.   |
+|YZ-444 TA |ST GOLF HL MECH.              |
+|YZ-444 TI |ST TOURAN HL AUT.             |
+|YZ-446 SZ |ST TIGUAN 4-M HL AUT.         |
+|YZ-446 TA |ST TOUAREG AUT.               |
+|YZ-446 TO |ST T6 CARAVELLE TL AUT.       |
+|YZ-449 TZ |ST TIGUAN CL MECH.            |
+|YZ-450 TZ |ST T6 MULTIVAN CL AUT.        |
+|YZ-451 SB |ST T6 DOKA 4-M MECH.          |
+|YZ-451 TZ |ST CADDY 4 ALLTR. AUT.        |
+|YZ-452 TO |ST TOURAN CL AUT.             |
+|YZ-453 SM |ST TIGUAN ALLS. 4-M HL AUT.   |
+|YZ-453 TO |ST T6 MULTIVAN 4-M CL AUT.    |
+|YZ-454 OP |ST E-UP!                      |
+|YZ-454 TA |ST TOUAREG AUT.               |
+|YZ-454 TO |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-454 TP |ST TIGUAN ALLS. CL AUT.       |
+|YZ-455 OE |ST PASSAT VAR. BMT HIGH. AUT. |
+|YZ-455 TA |ST UP! CROSS MECH.            |
+|YZ-455 TO |ST TOURAN CL AUT.             |
+|YZ-456 TZ |ST SHARAN CL BMT AUT.         |
+|YZ-457 TA |ST TIGUAN 4-M HL AUT.         |
+|YZ-458 PX |ST UP! HIGH. AUT.             |
+|YZ-458 TO |ST ARTEON ELEGANCE MECH.      |
+|YZ-459 RU |ST TOURAN BMT R-LINE AUT.     |
+|YZ-459 TO |ST TIGUAN 4-M CL AUT.         |
+|YZ-459 TZ |ST T6 CARAVELLE CL AUT.       |
+|YZ-460 SB |ST TIGUAN CL AUT.             |
+|YZ-460 SM |ST T6 CALIFORNIA BEACH MECH.  |
+|YZ-460 TO |ST TOURAN CL AUT.             |
+|YZ-460 TP |ST TIGUAN ALLS. 4-M AUT.      |
+|YZ-462 TA |ST TIGUAN 4-M HL AUT.         |
+|YZ-462 TP |ST GOLF HL AUT.               |
+|YZ-463 SM |ST T6 CARAVELLE 4-M AUT.FOLIE |
+|YZ-463 TO |ST TOURAN CL AUT.             |
+|YZ-464 PX |ST TIGUAN 4-M CL AUT.         |
+|YZ-467 TJ |ST TOUAREG AUT.               |
+|YZ-468 SM |ST TIGUAN 4-M HL AUT.         |
+|YZ-468 TO |ST TIGUAN ALLS. CL AUT.       |
+|YZ-470 SM |ST TIGUAN ALLS. 4-M CL AUT.   |
+|YZ-471 TO |ST TIGUAN ALLS. 4-M HL AUT.   |
+|YZ-471 TS |ST UP! GTI                    |
+|YZ-472 OI |ST UP! CROSS MECH.            |
+|YZ-472 TO |ST T6 MULTIVAN 4-M AUT.       |
+|YZ-473 OO |ST E-UP!                      |
+|YZ-473 SM |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-475 TA |ST UP! CROSS MECH.            |
+|YZ-475 TJ |ST TOUAREG AUT.               |
+|YZ-475 TO |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-476 SM |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-476 TX |ST TIGUAN HL 4-M AUT.         |
+|YZ-477 SM |ST T6 CALIFORNIA BEACH.4-M AUT|
+|YZ-478 UI |ST PASSAT VAR. R-LINE CL AUT. |
+|YZ-479 TA |ST UP! HIGH. MECH.            |
+|YZ-479 TJ |ST TOUAREG AUT.               |
+|YZ-479 TX |ST UP! CROSS MECH.            |
+|YZ-480 TX |ST UP! GTI                    |
+|YZ-481 TX |ST TOUAREG TDI V6             |
+|YZ-481 UI |ST ARTEON AUT.                |
+|YZ-482 TJ |ST E-UP!                      |
+|YZ-484 SB |ST E-UP!                      |
+|YZ-484 TJ |ST TOUAREG AUT.               |
+|YZ-486 UI |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-488 SB |ST UP! HIGH. MECH.            |
+|YZ-490 UI |ST TIGUAN 4-M CL AUT.         |
+|YZ-491 TJ |ST E-UP!                      |
+|YZ-493 TS |ST ARTEON R-LINE MECH.        |
+|YZ-494 RS |ST T6 MULTIVAN TL AUT.        |
+|YZ-495 SF |ST TIGUAN ALLS. HL 4-M MECH.  |
+|YZ-498 SF |ST TOURAN R-LINE BMT AUT.     |
+|YZ-499 SH |ST TIGUAN CL AUT.             |
+|YZ-499 TF |ST T6 CARAVELLE CL 4-M AUT.   |
+|YZ-499 TL |ST ARTEON ELEGANCE MECH.      |
+|YZ-500 NN |ST E-UP!                      |
+|YZ-501 TX |ST UP! CROSS MECH.            |
+|YZ-502 SH |ST TIGUAN CL AUT.             |
+|YZ-505 TE |ST GOLF SPORTSV. HL AUT.      |
+|YZ-505 TF |ST TOUAREG AUT.               |
+|YZ-506 NJ |ST E-UP!                      |
+|YZ-507 RL |ST E-UP!                      |
+|YZ-507 TE |ST SHARAN 4-M HL MECH.        |
+|YZ-508 TE |ST SHARAN 4-M CL MECH.        |
+|YZ-508 TX |ST TIGUAN 4-M HL AUT.         |
+|YZ-512 SF |ST T6 SKRIŇ.DODÁVKA 4-M AUT.  |
+|YZ-513 TF |ST TOUAREG AUT.               |
+|YZ-514 RY |ST ARTEON R-LINE AUT.         |
+|YZ-515 TE |ST T-ROC 4-M MECH.            |
+|YZ-516 RY |ST TIGUAN 4-M HL AUT.         |
+|YZ-518 SH |ST TIGUAN CL AUT.             |
+|YZ-520 PP |ST TOURAN BMT HIGH. AUT.      |
+|YZ-521 SF |ST TIGUAN ALLS. CL AUT.       |
+|YZ-521 TE |ST TOURAN R-LINE AUT.         |
+|YZ-522 KZ |AUDI Q7                       |
+|YZ-522 RK |ST PASSAT VAR. GTE AUT.       |
+|YZ-522 SF |ST ARTEON AUT.                |
+|YZ-523 PP |ST TIGUAN 4-M HIGH. AUT.      |
+|YZ-523 RK |ST ARTEON MECH.               |
+|YZ-523 RY |ST CADDY 4-M MAXI MECH.       |
+|YZ-523 SH |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-524 SI |ST UP! HIGH. AUT.             |
+|YZ-525 RY |ST TIGUAN 4-M CL AUT.         |
+|YZ-525 SI |ST UP! CROSS MECH.            |
+|YZ-526 SF |ST PASSAT VAR. R-LINE HL MECH.|
+|YZ-527 RY |ST ARTEON MECH.               |
+|YZ-528 SF |ST SHARAN BMT 4-M HL MECH.    |
+|YZ-528 SI |ST UP! MOVE MECH.             |
+|YZ-528 TE |ST TIGUAN ALLS. CL MECH.      |
+|YZ-530 SI |ST UP! HIGH. MECH.            |
+|YZ-531 RY |ST TIGUAN 4-M HL AUT.         |
+|YZ-531 SF |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-532 RY |ST GOLF ALLT. 4-M AUT.        |
+|YZ-534 RK |ST ARTEON R-LINE MECH.        |
+|YZ-534 UG |ST PASSAT VAR. HL AUT.        |
+|YZ-535 LJ |ST TOURAN BMT HIGH. AUT.      |
+|YZ-537 TE |ST PASSAT VAR. CL AUT.        |
+|YZ-538 TE |ST T-ROC 4-M AUT.             |
+|YZ-540 TE |ST T6 CARAVELLE CL 4-M AUT.   |
+|YZ-541 RT |ST TIGUAN 4-M HL AUT.         |
+|YZ-547 RT |ST PASSAT VAR. CL BMT MECH.   |
+|YZ-548 PU |ST TOURAN BMT HIGH. AUT.      |
+|YZ-552 RT |ST TIGUAN 4-M HL AUT.         |
+|YZ-552 SL |ST UP! HIGH. MECH.            |
+|YZ-554 SI |ST UP! CROSS MECH.            |
+|YZ-557 SI |ST UP! HIGH. AUT.             |
+|YZ-558 UG |ST GOLF SPORTSV. HL AUT.      |
+|YZ-559 TV |ST POLO HL MECH.              |
+|YZ-561 RT |ST SHARAN BMT AUT.            |
+|YZ-564 SO |ST PASSAT VAR. BMT HL AUT.    |
+|YZ-564 TV |ST TOURAN CL MECH.            |
+|YZ-567 RT |ST ARTEON ELEGANCE AUT.       |
+|YZ-568 SG |ST TOUAREG V6 TDI AUT.        |
+|YZ-570 SG |ST T6 CALIFORNIA BEACH MECH.  |
+|YZ-571 SO |ST UP! CROSS MECH.            |
+|YZ-574 RL |ST GOLF ALLTR. 4-M AUT.       |
+|YZ-575 RT |ST GOLF ALLTR. 4-M AUT.       |
+|YZ-575 SG |ST TIGUAN ALLS. CL 4-M MECH.  |
+|YZ-576 SG |ST TOURAN R-LINE BMT AUT.     |
+|YZ-577 RT |ST T6 MULTIVAN 4-M AUT.       |
+|YZ-578 TH |ST SHARAN BMT CL AUT.         |
+|YZ-581 OB |ST UP! HIGH. MECH.            |
+|YZ-582 TY |ST ARTEON ELEGANCE AUT.       |
+|YZ-586 TZ |ST TOUAREG TDI V6             |
+|YZ-587 SG |ST TIGUAN 4-M CL AUT.         |
+|YZ-589 RS |ST PASSAT VAR. BMT HL AUT.    |
+|YZ-590 JE |ST UP!                        |
+|YZ-590 TZ |ST TOUAREG TDI V6             |
+|YZ-592 TZ |ST TOUAREG TDI V6             |
+|YZ-593 SG |ST TIGUAN CL AUT.             |
+|YZ-595 TZ |ST TOUAREG TDI V6             |
+|YZ-596 RC |ST GOLF R-LINE HL AUT.        |
+|YZ-601 TY |ST TOUAREG TDI V6             |
+|YZ-604 TG |ST UP! HIGH. MECH.            |
+|YZ-607 TG |ST TOUAREG AUT.               |
+|YZ-609 TG |ST TOUAREG AUT.               |
+|YZ-611 PY |ST TOUAREG V6 AUT.            |
+|YZ-611 TG |ST TOUAREG AUT.               |
+|YZ-612 RS |ST SHARAN BMT CL AUT.         |
+|YZ-612 TY |ST TIGUAN ALLS. 4-M HL AUT.   |
+|YZ-613 PY |ST TOURAN HL. BMT AUT.        |
+|YZ-614 TY |ST T6 CARAVELLE CL MECH.      |
+|YZ-617 TG |ST TOUAREG AUT.               |
+|YZ-618 PY |ST TOUAREG V6 AUT.            |
+|YZ-622 PY |ST TIGUAN 4-M CL AUT.         |
+|YZ-624 TG |V T-ROC 4-M AUT.              |
+|YZ-627 MZ |ST UP!                        |
+|YZ-628 PG |ST SHARAN BMT AUT.            |
+|YZ-629 PY |ST E-UP!                      |
+|YZ-631 TG |ST TOUAREG AUT.               |
+|YZ-634 TR |ST TIGUAN HL 4-M AUT.         |
+|YZ-635 TG |ST UP! HIGH. MECH.            |
+|YZ-636 TG |ST T6 CARAVELLE CL 4-M AUT.   |
+|YZ-637 SJ |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-637 TG |ST UP! HIGH. MECH.            |
+|YZ-652 SR |ST UP! CROSS MECH.            |
+|YZ-654 SO |ST TIGUAN 4-M HL MECH.        |
+|YZ-654 SR |ST TIGUAN ALLS. 4-M HL AUT.   |
+|YZ-657 SR |ST PASSAT GTE HYBRID AUT.     |
+|YZ-657 UE |ST ARTEON AUT.                |
+|YZ-658 RM |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-658 TM |ST TOURAN CL AUT.             |
+|YZ-658 UE |ST GOLF HL MECH.              |
+|YZ-659 TD |ST UP! HIGH. MECH.            |
+|YZ-660 SR |ST GOLF GTI AUT.              |
+|YZ-660 TM |ST TOUAREG TDI V6             |
+|YZ-662 SR |ST T-ROC 4-M AUT.             |
+|YZ-663 OI |ST UP! HIGH. MECH.            |
+|YZ-663 SR |ST UP! HIGH. MECH.            |
+|YZ-663 TM |ST TOUAREG TDI V6             |
+|YZ-663 UE |ST PASSAT R-LINE CL AUT.      |
+|YZ-665 TM |ST TOUAREG TDI V6             |
+|YZ-665 UE |ST ARTEON AUT.                |
+|YZ-667 TM |ST TOUAREG TDI V6             |
+|YZ-667 UE |ST ARTEON ELEGANCE 4-M AUT.   |
+|YZ-668 TD |ST TOURAN R-LINE AUT.         |
+|YZ-668 TM |ST TOUAREG TDI V6             |
+|YZ-669 SR |ST TOURAN R-LINE AUT.         |
+|YZ-669 UE |ST TIGUAN ALLS. 4-M TL AUT.   |
+|YZ-670 OI |ST UP! HIGH. MECH.            |
+|YZ-670 RM |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-671 RM |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-671 SO |ST TOURAN HL AUT.             |
+|YZ-672 SO |ST TIGUAN ALLS. 4-M HL AUT.   |
+|YZ-672 TM |ST TOUAREG TDI V6             |
+|YZ-673 TD |ST UP! HIGH. MECH.            |
+|YZ-674 RM |T6 CARAVELLE 4-M CL AUT.      |
+|YZ-674 SR |ST T6 MULTIVAN TL AUT.        |
+|YZ-674 UE |ST ARTEON AUT.                |
+|YZ-675 SR |ST TIGUAN 4-M HL AUT.         |
+|YZ-676 SR |ST TIGUAN 4-M HL AUT.         |
+|YZ-677 RM |ST GOLF VAR. MECH.            |
+|YZ-677 TD |ST UP! CROSS AUT.             |
+|YZ-678 SR |ST TIGUAN 4-M CL AUT.         |
+|YZ-678 UE |ST PASSAT VAR. CL AUT.        |
+|YZ-679 TD |ST UP! CROSS MECH.            |
+|YZ-679 UE |ST ARTEON R-LINE MECH.        |
+|YZ-680 UE |ST TOUAREG V6 TDI AUT.        |
+|YZ-682 UE |ST TIGUAN ALLS. 4-M HL AUT.   |
+|YZ-683 SR |ST T6 MULTIVAN 4-M HL AUT.    |
+|YZ-684 OG |ST UP! MOVE AUT.              |
+|YZ-684 SZ |ST TIGUAN 4-M HL AUT.         |
+|YZ-684 TM |ST TOUAREG TDI V6             |
+|YZ-685 RM |ST ARTEON R-LINE MECH.        |
+|YZ-685 SR |ST ARTEON ELEGANCE 4-M AUT.   |
+|YZ-686 SZ |ST TIGUAN ALLS. 4-M HL AUT.   |
+|YZ-687 UE |ST SHARAN CL MECH.            |
+|YZ-688 SR |ST TIGUAN ALLS. 4-M HL AUT.   |
+|YZ-688 TD |ST UP! HIGH. MECH.            |
+|YZ-689 RM |ST T6 MULTIVAN HL AUT.        |
+|YZ-691 SZ |ST TIGUAN 4-M CL AUT.         |
+|YZ-692 TR |ST TOUAREG TDI V6             |
+|YZ-693 SZ |ST TIGUAN ALLS. 4-M HL AUT.   |
+|YZ-694 UE |ST ARTEON AUT.                |
+|YZ-695 RM |ST TIGUAN 4-M CL AUT.         |
+|YZ-696 UE |ST GOLF VAR. HL MECH.         |
+|YZ-697 TD |ST TIGUAN 4-M HL AUT.         |
+|YZ-702 SZ |ST TIGUAN CL AUT.             |
+|YZ-709 SZ |ST T6 MULTIVAN HL AUT.        |
+|YZ-717 TI |ST TOUAREG AUT.               |
+|YZ-718 TR |ST TOUAREG TDI V6             |
+|YZ-721 TR |ST PASSAT VAR. 4-M CL AUT.    |
+|YZ-725 RD |ST PASSAT V.ALLTR. 4-M AUT.   |
+|YZ-726 RD |ST TIGUAN 4-M CL AUT.         |
+|YZ-727 RA |ST TOUAREG V6 AUT.            |
+|YZ-728 RA |ST TIGUAN CL AUT.             |
+|YZ-729 SK |ST CARAVELLE                  |
+|YZ-730 PH |ST E-UP!                      |
+|YZ-733 RD |ST TIGUAN 4-M HL AUT.         |
+|YZ-734 PH |ST E-UP!                      |
+|YZ-735 SL |ST CARAVELLE                  |
+|YZ-736 RU |ST GOLF COMF. AUT.            |
+|YZ-742 SL |ST CARAVELLE                  |
+|YZ-747 SL |ST CARAVELLE                  |
+|YZ-751 RV |ST GOLF R 4-M AUT.            |
+|YZ-751 SE |ST TOUAREG V6 TDI AUT.        |
+|YZ-752 YF |PRÍVES NÁKLADNÝ               |
+|YZ-754 RV |ST GOLF VAR. HL. MECH.        |
+|YZ-757 PR |ST UP! HIGH. MECH.            |
+|YZ-758 NN |ST E-UP!                      |
+|YZ-760 PR |ST UP! HIGH. MECH.            |
+|YZ-760 RV |ST TOURAN BMT HL AUT.         |
+|YZ-760 SL |ST CARAVELLE                  |
+|YZ-761 SD |ST PASSAT VAR. HL AUT.        |
+|YZ-763 SD |ST CADDY 4-M ALLT. AUT.       |
+|YZ-764 RB |ST TIGUAN 4-M HL AUT.         |
+|YZ-766 RN |ST TOUAREG V6 TDI             |
+|YZ-767 TK |ST TIGUAN ALLS. 4-M HL AUT.   |
+|YZ-771 SD |ST TOURAN R-LINE BMT AUT.     |
+|YZ-771 SE |ST UP! HIGH. MECH.            |
+|YZ-772 RV |ST TOURAN BMT HL MECH.        |
+|YZ-773 OT |ST UP! HIGH. MECH.            |
+|YZ-773 RV |ST GOLF VAR. R-LINE CL MECH.  |
+|YZ-775 RB |ST PASSAT VAR. 4-M HL AUT.    |
+|YZ-778 SD |ST TOUAREG V6 TDI AUT.        |
+|YZ-778 TN |ST T6 MULTIVAN 4-M AUT.       |
+|YZ-779 TV |ST TOUAREG TDI V6             |
+|YZ-780 PR |ST SHARAN BMT 4-M HL AUT.     |
+|YZ-784 RF |ST TOURAN BMT R-LINE AUT.     |
+|YZ-785 SK |ST TIGUAN CL MECH.            |
+|YZ-787 SD |ST PASSAT BMT HL AUT.         |
+|YZ-787 SK |ST TIGUAN 4-M HL AUT.         |
+|YZ-787 TN |ST TOURAN CL AUT.             |
+|YZ-788 SP |ST ARTEON R-LINE 4M AUT.      |
+|YZ-789 RB |ST GOLF GTE HYBRID AUT.       |
+|YZ-789 SK |ST PASSAT R-LINE BMT HL AUT.  |
+|YZ-793 MC |ST GOLF VAR. HIGH. MECH.      |
+|YZ-794 SP |ST TIGUAN 4-M CL MECH.        |
+|YZ-795 SP |ST TOURAN R-LINE AUT.         |
+|YZ-798 SP |ST SHARAN BMT 4-M HL AUT.     |
+|YZ-799 RU |ST GOLF R 4-M MECH.           |
+|YZ-800 SK |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-802 SP |ST PASSAT VAR. HL AUT.        |
+|YZ-803 SP |ST TIGUAN ALLS. TL AUT.       |
+|YZ-803 TN |ST TOURAN CL AUT.             |
+|YZ-804 UC |ST TOURAN CL AUT.             |
+|YZ-805 RF |ST ARTEON ELEGANCE AUT.       |
+|YZ-806 RB |ST TOURAN BMT R-LINE AUT.     |
+|YZ-806 RF |ST TOURAN BMT HL AUT.         |
+|YZ-807 RB |ST GOLF GTE HYBRID AUT.       |
+|YZ-810 SP |ST TOURAN HL AUT.             |
+|YZ-811 TN |ST TOURAN CL AUT.             |
+|YZ-814 RB |ST TIGUAN CL AUT.             |
+|YZ-814 SP |ST ARTEON ELEGANCE MECH.      |
+|YZ-821 UC |ST PASSAT VAR. R-LINE HL AUT. |
+|YZ-823 RB |ST TIGUAN 4-M HO AUT.         |
+|YZ-823 UC |ST ARTEON AUT.                |
+|YZ-824 UC |ST TOURAN R-LINE BMT AUT.     |
+|YZ-831 UC |ST GOLF SPORTS. CL MECH.      |
+|YZ-832 UC |ST E-UP!                      |
+|YZ-834 TI |ST E-UP!                      |
+|YZ-836 RB |ST TIGUAN 4-M HL AUT.         |
+|YZ-838 TI |ST TOUAREG AUT.               |
+|YZ-841 MY |ST ARTEON AUT.                |
+|YZ-842 RB |ST GOLF GTE HYBRID AUT.       |
+|YZ-843 PV |ST TOUAREG V6 AUT.            |
+|YZ-843 RX |ST ARTEON ELEGANCE 4-M AUT.   |
+|YZ-846 RX |ST ARTEON MECH.               |
+|YZ-846 SI |ST TIGUAN CL AUT.             |
+|YZ-847 SI |ST TIGUAN CL AUT.             |
+|YZ-848 SI |ST TOURAN BMT CL AUT.         |
+|YZ-849 SI |ST UP! CROSS MECH.            |
+|YZ-850 SI |ST UP! CROSS AUT.             |
+|YZ-853 SI |ST UP! HIGH. AUT.             |
+|YZ-853 SO |ST CARAVELLE                  |
+|YZ-854 RX |ST CADDY 4-M CL MECH.OBJ.BENZI|
+|YZ-854 SI |ST UP! CROSS MECH.            |
+|YZ-855 SI |ST UP! CROSS MECH.            |
+|YZ-857 RX |ST GOLF ALLTR. AUT.           |
+|YZ-857 SI |ST UP! HIGH. MECH.            |
+|YZ-858 SI |ST UP! HIGH. MECH.            |
+|YZ-861 SI |ST UP! CROSS MECH.            |
+|YZ-862 PC |ST UP! HIGH. MECH.            |
+|YZ-862 SI |ST UP! CROSS AUT.             |
+|YZ-863 TF |ST TOUAREG AUT.               |
+|YZ-867 SI |ST UP! HIGH. AUT.             |
+|YZ-869 RX |ST PASSAT VAR. HL AUT.        |
+|YZ-871 SI |ST T6 MULTIVAN HL AUT.        |
+|YZ-872 SI |ST TOURAN BMT R-LINE AUT.     |
+|YZ-873 RX |ST TOURAN BMT HL AUT.         |
+|YZ-874 SI |ST UP! HIGH. MECH.            |
+|YZ-875 RX |ST SHARAN BMT HL AUT.         |
+|YZ-876 RP |ST GOLF R 4-M AUT.            |
+|YZ-876 SI |ST UP! CROSS MECH.            |
+|YZ-877 SC |ST GOLF GTI MECH.             |
+|YZ-877 SI |ST TIGUAN 4-M TL AUT.         |
+|YZ-878 OO |ST E-UP!                      |
+|YZ-878 SI |ST T6 CALIFORNIA BEACH.4-M MEC|
+|YZ-879 RX |ST CADDY 4-M CL MAXI MECH.    |
+|YZ-881 SI |ST TIGUAN 4-M HL MECH.        |
+|YZ-883 PU |ST T6 CARAVELLE 4-M COMF. AUT.|
+|YZ-883 SI |ST TOURAN R-LINE BMT AUT.     |
+|YZ-887 RG |ST TOURAN BMT HL AUT.         |
+|YZ-890 RP |ST TOURAN R-LINE BMT AUT.     |
+|YZ-890 SJ |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-891 IZ |ST E-UP!                      |
+|YZ-895 PU |ST E-UP!                      |
+|YZ-895 RG |ST GOLF GTI MECH.             |
+|YZ-895 SB |ST ARTEON AUT.                |
+|YZ-895 TP |ST TOUAREG V6 AUT.            |
+|YZ-897 SB |ST TIGUAN 4-M HL AUT.         |
+|YZ-900 TP |ST TIGUAN 4-M HL AUT.         |
+|YZ-901 PU |ST E-UP!                      |
+|YZ-901 RG |ST TOURAN BMT HL AUT.         |
+|YZ-901 SO |ST TOURAN HL AUT.             |
+|YZ-901 TH |ST TOURAN HL. AUT.            |
+|YZ-902 SB |ST TIGUAN 4-M HL AUT.         |
+|YZ-903 TP |ST PASSAT 4-M CL AUT.         |
+|YZ-904 UI |ST T6 KOMBI 4-M LR AUT.       |
+|YZ-905 SB |ST PASSAT R-LINE BMT HL MECH. |
+|YZ-905 TJ |ST ARTEON AUT.                |
+|YZ-907 TH |ST TIGUAN 4-M HL AUT.         |
+|YZ-908 RG |ST TIGUAN 4-M HL AUT.         |
+|YZ-908 RT |ST TIGUAN 4-M HL AUT.         |
+|YZ-908 TH |ST TOUAREG AUT.               |
+|YZ-908 TJ |ST TIGUAN ALLS. 4-M AUT.      |
+|YZ-910 NP |ST UP! MECH.                  |
+|YZ-910 RG |ST TOURAN BMT HL AUT.         |
+|YZ-910 RT |ST ARTEON ELEGANCE AUT.       |
+|YZ-911 SB |ST UP! HIGH. MECH.            |
+|YZ-911 SO |ST ARTEON AUT.                |
+|YZ-911 TJ |ST T-ROC SPORT 4-M MECH.      |
+|YZ-912 RG |ST TOURAN BMT CL AUT.         |
+|YZ-912 SB |ST TIGUAN 4-M HL AUT.         |
+|YZ-913 TH |ST TOURAN HL AUT.             |
+|YZ-914 PA |ST UP! HIGH. MECH.            |
+|YZ-914 UI |ST ARTEON R-LINE 4-M AUT.     |
+|YZ-916 SB |ST UP! CNG MECH.              |
+|YZ-916 TJ |ST T6 MULTIVAN 4-M HL AUT.    |
+|YZ-917 RT |ST BEETLE CAB. BMT AUT.       |
+|YZ-917 SB |ST TIGUAN 4-M HL AUT.         |
+|YZ-917 SO |ST TIGUAN ALLS. 4-M HL AUT.   |
+|YZ-919 RT |ST TIGUAN CL AUT.             |
+|YZ-920 RT |ST TIGUAN 4-M HL AUT.         |
+|YZ-921 UI |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-923 SB |ST SHARAN 4-M BMT HL AUT.     |
+|YZ-923 TH |ST ARTEON R-LINE MECH.        |
+|YZ-923 UI |ST ARTEON R-LINE AUT.         |
+|YZ-925 RU |ST TOUAREG V6 AUT.            |
+|YZ-925 TJ |ST TOURAN HL. AUT.            |
+|YZ-925 UD |ST ARTEON ELEGANCE AUT.       |
+|YZ-926 RT |ST GOLF HL AUT. OBJED.BENZIN  |
+|YZ-927 UD |ST CADDY MAXI CL AUT.         |
+|YZ-928 TH |ST TIGUAN 4-M HL AUT.         |
+|YZ-929 SA |ST CADDY SKR.DODÁVKA(OBJ.BENZI|
+|YZ-929 TJ |ST T-ROC SPORT 4-M AUT.       |
+|YZ-930 SA |ST UP! CROSS AUT.             |
+|YZ-930 SB |ST TIGUAN CL AUT.             |
+|YZ-930 TJ |ST T-ROC STYLE 4-M AUT.       |
+|YZ-931 TA |ST PASSAT VAR. GTE            |
+|YZ-931 TH |ST GOLF ALLTR. AUT.           |
+|YZ-931 TJ |ST TIGUAN ALLS. CL AUT.       |
+|YZ-932 RT |ST GOLF R-LINE HL AUT.        |
+|YZ-933 TJ |ST T-ROC SPORT AUT.           |
+|YZ-934 RT |ST PASSAT VAR. R-LINE HL MECH.|
+|YZ-934 SB |ST T6 DOKA 4-M MECH.          |
+|YZ-934 TJ |ST TOURAN R-LINE AUT.         |
+|YZ-934 UD |ST ARTEON R-LINE MECH.        |
+|YZ-935 PA |ST GOLF HIGH. AUT.            |
+|YZ-935 RU |ST BEETLE DUNE BMT AUT.       |
+|YZ-935 TJ |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-936 UI |ST PASSAT R-LINE CL AUT.      |
+|YZ-937 RT |ST TIGUAN CL MECH.            |
+|YZ-937 TJ |ST TOUAREG AUT.               |
+|YZ-938 RT |ST TIGUAN 4-M HL MECH.        |
+|YZ-938 UD |ST ARTEON R-LINE MECH.        |
+|YZ-939 TS |ST PASSAT VAR. R-LINE CL MECH.|
+|YZ-941 TS |ST UP! GTI                    |
+|YZ-942 UD |ST ARTEON ELEGANCE AUT.       |
+|YZ-942 UI |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-943 RT |ST TOURAN BMT HL AUT.         |
+|YZ-944 RT |ST TIGUAN 4-M CL AUT.         |
+|YZ-944 SA |ST PASSAT ALLTR. 4-M AUT.     |
+|YZ-945 RU |ST TOUAREG V6 AUT.            |
+|YZ-947 SO |ST E-UP!                      |
+|YZ-948 RP |ST CADDY CL MAXI 4-M MECH.    |
+|YZ-949 RP |ST TOURAN BMT HL AUT.         |
+|YZ-949 SA |ST UP! HIGH. MECH.            |
+|YZ-950 SK |ST CARAVELLE                  |
+|YZ-950 UD |ST ARTEON R-LINE AUT.         |
+|YZ-951 UD |ST SHARAN CL AUT.             |
+|YZ-952 RS |ST T6 KOMBI 4-M AUT.          |
+|YZ-953 OL |ST UP! HIGH. MECH.            |
+|YZ-953 RS |ST TIGUAN CL MECH.            |
+|YZ-953 SA |ST GOLF GTI AUT.              |
+|YZ-953 UD |ST TIGUAN CL AUT.             |
+|YZ-954 TS |ST E-UP!                      |
+|YZ-955 SA |ST UP! ECO MECH.              |
+|YZ-956 TS |ST E-UP!                      |
+|YZ-958 SA |ST ARTEON MECH.               |
+|YZ-960 SA |ST TIGUAN 4-M TRENDL. MECH.   |
+|YZ-960 UD |ST TOURAN CL AUT.             |
+|YZ-962 SO |ST TIGUAN 4-M HL AUT.         |
+|YZ-962 TS |ST UP! GTI                    |
+|YZ-963 RS |ST GOLF HL AUT.               |
+|YZ-965 SA |ST SHARAN BMT CL AUT.         |
+|YZ-969 TS |ST UP! GTI                    |
+|YZ-972 RM |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-973 TS |ST E-UP!                      |
+|YZ-975 TS |ST UP! GTI                    |
+|YZ-977 TU |ST UP! GTI                    |
+|YZ-979 SK |ST CARAVELLE                  |
+|YZ-979 TU |ST TIGUAN CL AUT.             |
+|YZ-980 TU |ST UP! GTI                    |
+|YZ-984 RM |ST CADDY MAXI CL AUT.         |
+|YZ-987 TU |ST TOUAREG TDI V6             |
+|YZ-988 TU |ST UP! GTI                    |
+|YZ-989 TU |ST UP! GTI                    |
+|YZ-992 TU |ST TOUAREG TDI V6             |
+|YZ-993 PR |ST UP! MOVE MECH.             |
+|YZ-994 TU |ST E-UP!                      |
+|YZ-995 SN |ST T6 CARAVELLE 4-M CL AUT.   |
+|YZ-998 TU |ST AMAROK DC AVENT. 4-M AUT.  |
+|YZ-999 KE |AUDI Q7                       |
+|YZ-999 TF |ST UP! HIGH. MECH.            |
+-------------------------------------------

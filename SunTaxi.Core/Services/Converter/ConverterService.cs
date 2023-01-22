@@ -6,7 +6,6 @@ namespace SunTaxi.Core.Services
     public class ConverterService: IConverterService
     {
         #region Properties
-        const string patternLine = @"[^|]*";
         private readonly ConfigModel _config;
         #endregion
 

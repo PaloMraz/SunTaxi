@@ -19,7 +19,7 @@ namespace SunTaxi.Core.Services
 
         #region Public methods
         /// <summary>
-        /// 
+        /// Main method to to convert file line to Vehicle record
         /// </summary>
         /// <param name="lines"></param>
         /// <returns></returns>
@@ -41,19 +41,19 @@ namespace SunTaxi.Core.Services
         }
 
         /// <summary>
-        /// 
+        /// Remove duplicate records by PlateNumber keys and takes last existing one
         /// </summary>
         /// <param name="vehicles"></param>
         /// <returns></returns>
-        public void makeVehaclesDistinct(ref IEnumerable<Vehicle> vehicles)
+        public IEnumerable<Vehicle> makeVehiclesDistinct(IEnumerable<Vehicle> vehicles)
         {
-            vehicles = vehicles.GroupBy(gb => gb.PlateNumber).Select(s => s.Last()).ToList();
+            return vehicles.GroupBy(gb => gb.PlateNumber).Select(s => s.Last()).ToList();
         }
         #endregion
 
         #region Private Methods
         /// <summary>
-        /// 
+        /// Test if the file line matches criteria for vehicle row
         /// </summary>
         /// <param name="line"></param>
         /// <returns></returns>
@@ -70,7 +70,7 @@ namespace SunTaxi.Core.Services
 
         }
         /// <summary>
-        /// 
+        /// Convert string array to Vehicle record
         /// </summary>
         /// <param name="columns"></param>
         /// <returns></returns>
@@ -85,7 +85,7 @@ namespace SunTaxi.Core.Services
         }
 
         /// <summary>
-        /// Normalize
+        /// Normalize PlateNumber
         /// </summary>
         /// <param name="columns"></param>
         /// <returns></returns>

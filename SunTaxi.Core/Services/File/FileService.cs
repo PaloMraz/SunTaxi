@@ -35,9 +35,12 @@ namespace SunTaxi.Core.Services
                 {
                     //set default encoding if not specified
                     if (encoding == null)
-                    {                        
+                    {
                         encoding = this.detectEncoding(filePath);
                         this._logger.LogInformation("Auto detecting Encoding: {0}", encoding.EncodingName);
+                    }
+                    else {
+                        this._logger.LogInformation("Encoding: {0}", encoding.EncodingName);
                     }
                     return await ReadFileAsync(filePath, encoding);
                 }

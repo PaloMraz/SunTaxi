@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using SunTaxi.Core.Data;
 
 namespace SunTaxi.Core.Services
@@ -7,8 +8,7 @@ namespace SunTaxi.Core.Services
 	{
         Task<IEnumerable<Vehicle>> processFileLines(IEnumerable<string> lines);
 
-        void makeVehaclesDistinct(ref IEnumerable<Vehicle> vehicles);
-
+        IEnumerable<Vehicle> makeVehiclesDistinct(IEnumerable<Vehicle> vehicles);
     }
 }
 

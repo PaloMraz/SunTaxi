@@ -33,23 +33,23 @@ namespace Console
 
         public Task StartAsync(CancellationToken cancellationToken)
         {
+            this._logger.LogInformation("Start Program");
             try
-            {
-                this._logger.LogInformation("Start Program");
+            {             
                 // get lines from file
-                string[] lines = this._fileService.ProcessReadAsync(this._config.Path, Encoding.Default).Result;             
+                string[] lines = this._fileService.ProcessReadAsync(this._config.Path, this._config.EncodingFromConfing).Result;             
                 this._logger.LogInformation("Total file lines: {0}", lines.Length);
 
-                //convert lines to vehacle records
-                var vehacles = _converterService.processFileLines(lines).Result;
-                this._logger.LogInformation("Vehacle records: {0}", vehacles.Count());
+                //convert lines to vehicle records
+                var vehicles = _converterService.processFileLines(lines).Result;
+                this._logger.LogInformation("Vehicle records: {0}", vehicles.Count());
 
-                // even ref is not needed bcs reference type
-                this._converterService.makeVehaclesDistinct(ref vehacles);
-                this._logger.LogInformation("Vehacle distinct records: {0}", vehacles.Count());
+                // make in distinct
+                vehicles = this._converterService.makeVehiclesDistinct(vehicles);
+                this._logger.LogInformation("Vehicle distinct records: {0}", vehicles.Count());
 
                 //populate DB
-                this._db.CreateOrUpdateVehiclesAsync(vehacles);
+                this._db.CreateOrUpdateVehiclesAsync(vehicles);
                 this._logger.LogInformation("Mock Database updated");
 
             }

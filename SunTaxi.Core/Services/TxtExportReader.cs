@@ -18,16 +18,19 @@ public sealed class TxtExportReader : IExportReader
     public async Task<IEnumerable<Vehicle>> LoadVehicles(string path)
     {
         using var fileStream = GetStream(path);
-            
-        var lines = GetEcvLines(fileStream);
-        var vehicles = lines
+
+        var vehicles = await GetEcvLines(fileStream)
             .Where(IsEcvLine)
             .Select(LineToVehicle)
-            .Where(_ => _ is not null); //TODO remove duplicates
+            .Where(_ => _ is not null)
+            .Select(_ => _!)
+            .ToArrayAsync();
 
-#pragma warning disable CS8619 // Nullability of reference types in value doesn't match target type.
-        return await vehicles.ToArrayAsync();
-#pragma warning restore CS8619 // Nullability of reference types in value doesn't match target type.
+        var uniqueVehicles = vehicles
+            .GroupBy(_ => _.PlateNumber)
+            .Select(_ => _.Last());
+
+        return uniqueVehicles;
     }
 
     private async IAsyncEnumerable<string> GetEcvLines(StreamReader streamReader)
@@ -53,22 +56,23 @@ public sealed class TxtExportReader : IExportReader
         catch (FileNotFoundException fe)
         {
             Console.WriteLine($"Failed to open file '{path}'");
-            Debug.WriteLine(fe);
+            Debug.WriteLine(fe.StackTrace);
             throw fe;
         }
     }
 
     private Vehicle? LineToVehicle(string line)
     {
-        var values = line.Split("|");
-        if (values.Length != 2)
+        var values = line.Trim('|').Split("|");
+        if (values.Length != 2 || string.IsNullOrWhiteSpace(values.First()))
             return null;
 
         var ecv = values.FirstOrDefault();
         if(ecv == null)
             return null;
 
-        var normalized = _ecvNormalizer.NormalizeEcv(ecv);
-        return new (){ PlateNumber=normalized, Name = values.LastOrDefault() };
+        return new (){ PlateNumber=NormalizeEcv(ecv), Name = values.LastOrDefault() };
     }
+
+    private string NormalizeEcv(string ecv) => _ecvNormalizer.NormalizeEcv(ecv);
 }

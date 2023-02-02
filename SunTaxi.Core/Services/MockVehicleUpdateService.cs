@@ -18,7 +18,7 @@ namespace SunTaxi.Core.Services
    
       foreach(var vehicle in vehicles)
       {
-        Debug.WriteLine($"{vehicle}");
+        Console.WriteLine($"{vehicle}");
       }
 
       return Task.CompletedTask;

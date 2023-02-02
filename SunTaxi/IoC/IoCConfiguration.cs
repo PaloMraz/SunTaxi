@@ -10,6 +10,7 @@ internal static class IoCConfiguration
         services.AddTransient<IVehicleUpdateService, MockVehicleUpdateService>();
         services.AddTransient<IEcvNormalizer, EcvNormalizer>();
         services.AddTransient<IExportReader, TxtExportReader>();
+        services.AddTransient<ISunTaxiService, SunTaxiService>();
         
         return services;
     }

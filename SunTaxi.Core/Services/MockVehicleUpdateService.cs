@@ -1,17 +1,12 @@
 ﻿using SunTaxi.Core.Data;
-using System;
-using System.Collections.Generic;
 using System.Diagnostics;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SunTaxi.Core.Services
 {
-  /// <summary>
-  /// Implementácia <see cref="IVehicleUpdateService"/> pre testovanie.
-  /// </summary>
-  public class MockVehicleUpdateService : IVehicleUpdateService
+    /// <summary>
+    /// Implementácia <see cref="IVehicleUpdateService"/> pre testovanie.
+    /// </summary>
+    public class MockVehicleUpdateService : IVehicleUpdateService
   {
     /// <summary>
     /// Implementácia len validuje <paramref name="vehicles"/> parameter a vypíše 

@@ -1,11 +1,9 @@
-using System;
-
 namespace SunTaxi.Core.Data
 {
-  /// <summary>
-  /// Entita reprezentujúca záznam o vozidle čo sa importuje zo SAPu.
-  /// </summary>
-  public record Vehicle
+    /// <summary>
+    /// Entita reprezentujúca záznam o vozidle čo sa importuje zo SAPu.
+    /// </summary>
+    public record Vehicle
   {
     /// <summary>
     /// EČV 

@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SunTaxi.Core\SunTaxi.Core.csproj" />
+    <ProjectReference Include="..\SunTaxi.ExportReader\SunTaxi.ExportReader.csproj" />
   </ItemGroup>
 
   <ItemGroup>

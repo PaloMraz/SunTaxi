@@ -1,5 +1,4 @@
 ﻿using SunTaxi.Core.Data;
-using System.Diagnostics;
 
 namespace SunTaxi.Core.Services
 {

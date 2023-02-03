@@ -1,7 +1,7 @@
-﻿using System.Diagnostics;
-using SunTaxi.Core.Data;
+﻿using SunTaxi.Core.Data;
+using SunTaxi.Core.Services;
 
-namespace SunTaxi.Core.Services;
+namespace SunTaxi.ExportReader;
 
 public sealed class TxtExportReader : IExportReader
 {
@@ -9,15 +9,17 @@ public sealed class TxtExportReader : IExportReader
     private const string HeaderLineStart = "|KFZKZ";
 
     private readonly IEcvNormalizer _ecvNormalizer;
+    private readonly IFileService _fileService;
 
-    public TxtExportReader(IEcvNormalizer ecvNormalizer)
+    public TxtExportReader(IEcvNormalizer ecvNormalizer, IFileService fileService)
     {
         _ecvNormalizer = ecvNormalizer;
+        _fileService = fileService;
     }
 
     public async Task<IEnumerable<Vehicle>> LoadVehicles(string path)
     {
-        using var fileStream = GetStream(path);
+        using var fileStream = _fileService.GetStream(path);
 
         var vehicles = await GetEcvLines(fileStream)
             .Where(IsEcvLine)
@@ -47,20 +49,6 @@ public sealed class TxtExportReader : IExportReader
         && line.StartsWith(VehicleLineStart)
         && !line.StartsWith(HeaderLineStart);
 
-    private StreamReader GetStream(string path)
-    {
-        try
-        {
-            return File.OpenText(path);
-        }
-        catch (FileNotFoundException fe)
-        {
-            Console.WriteLine($"Failed to open file '{path}'");
-            Debug.WriteLine(fe.StackTrace);
-            throw fe;
-        }
-    }
-
     private Vehicle? LineToVehicle(string line)
     {
         var values = line.Trim('|').Split("|");
@@ -68,10 +56,10 @@ public sealed class TxtExportReader : IExportReader
             return null;
 
         var ecv = values.FirstOrDefault();
-        if(ecv == null)
+        if (ecv == null)
             return null;
 
-        return new (){ PlateNumber=NormalizeEcv(ecv), Name = values.LastOrDefault() };
+        return new() { PlateNumber = NormalizeEcv(ecv), Name = values.LastOrDefault() };
     }
 
     private string NormalizeEcv(string ecv) => _ecvNormalizer.NormalizeEcv(ecv);
